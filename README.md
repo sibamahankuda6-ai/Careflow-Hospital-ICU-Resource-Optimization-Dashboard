@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h2 align="center">Careflow ICU Dashboard</h2>
 
 <p align="center">
@@ -6,4 +6,3 @@
        alt="Careflow Hospital ICU Dashboard"
        width="800">
 </p>
-=======
